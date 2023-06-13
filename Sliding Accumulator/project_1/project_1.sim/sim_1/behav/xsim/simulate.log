@@ -1,0 +1,3 @@
+Vivado Simulator 2018.3
+Time resolution is 1 ps
+ERROR: Could not open VCD file ./build/wave.vcd for writing.
