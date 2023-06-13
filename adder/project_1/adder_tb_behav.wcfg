@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="adder_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="adder_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="479000001fs"></ZoomEndTime>
+      <Cursor1Time time="205000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="118"></NameColumnWidth>
+      <ValueColumnWidth column_width="58"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="16" />
+   <wave_markers>
+      <marker time="125000000" label="" />
+      <marker time="165000000" label="" />
+   </wave_markers>
+   <wvobject fp_name="/adder_tb/adder_dut/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/adder_tb/adder_dut/din" type="array">
+      <obj_property name="ElementShortName">din[5:0]</obj_property>
+      <obj_property name="ObjectShortName">din[5:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/adder_tb/adder_dut/en" type="logic">
+      <obj_property name="ElementShortName">en</obj_property>
+      <obj_property name="ObjectShortName">en</obj_property>
+   </wvobject>
+   <wvobject fp_name="/adder_tb/adder_dut/dout" type="array">
+      <obj_property name="ElementShortName">dout[7:0]</obj_property>
+      <obj_property name="ObjectShortName">dout[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/adder_tb/adder_dut/rst_n" type="logic">
+      <obj_property name="ElementShortName">rst_n</obj_property>
+      <obj_property name="ObjectShortName">rst_n</obj_property>
+   </wvobject>
+   <wvobject fp_name="/adder_tb/adder_dut/p" type="array">
+      <obj_property name="ElementShortName">p[7:0]</obj_property>
+      <obj_property name="ObjectShortName">p[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/adder_tb/adder_dut/p_t" type="array">
+      <obj_property name="ElementShortName">p_t[7:0]</obj_property>
+      <obj_property name="ObjectShortName">p_t[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/adder_tb/adder_dut/dout_t" type="array">
+      <obj_property name="ElementShortName">dout_t[7:0]</obj_property>
+      <obj_property name="ObjectShortName">dout_t[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/adder_tb/adder_dut/q_t1" type="array">
+      <obj_property name="ElementShortName">q_t1[7:0]</obj_property>
+      <obj_property name="ObjectShortName">q_t1[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/adder_tb/adder_dut/q_t2" type="array">
+      <obj_property name="ElementShortName">q_t2[7:0]</obj_property>
+      <obj_property name="ObjectShortName">q_t2[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/adder_tb/adder_dut/q_t3" type="array">
+      <obj_property name="ElementShortName">q_t3[7:0]</obj_property>
+      <obj_property name="ObjectShortName">q_t3[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/adder_tb/adder_dut/cnt_1" type="array">
+      <obj_property name="ElementShortName">cnt_1[2:0]</obj_property>
+      <obj_property name="ObjectShortName">cnt_1[2:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/adder_tb/adder_dut/cnt_2" type="array">
+      <obj_property name="ElementShortName">cnt_2[2:0]</obj_property>
+      <obj_property name="ObjectShortName">cnt_2[2:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/adder_tb/adder_dut/ce" type="logic">
+      <obj_property name="ElementShortName">ce</obj_property>
+      <obj_property name="ObjectShortName">ce</obj_property>
+   </wvobject>
+   <wvobject fp_name="/adder_tb/adder_dut/capture_t" type="logic">
+      <obj_property name="ElementShortName">capture_t</obj_property>
+      <obj_property name="ObjectShortName">capture_t</obj_property>
+   </wvobject>
+   <wvobject fp_name="/adder_tb/adder_dut/capture" type="logic">
+      <obj_property name="ElementShortName">capture</obj_property>
+      <obj_property name="ObjectShortName">capture</obj_property>
+   </wvobject>
+</wave_config>

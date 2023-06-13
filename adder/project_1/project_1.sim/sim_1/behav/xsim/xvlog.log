@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/WORK/prj_fpga/adder/adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/WORK/prj_fpga/adder/tb_adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module adder_tb
