@@ -1,6 +1,6 @@
 module mult_line #(
-    parameter MULTLEN_1 = 4,  //被乘数
-    parameter MULTLEN_2 = 4   //乘数
+    parameter MULTLEN_1 = 8,  //被乘数
+    parameter MULTLEN_2 = 8   //乘数
 ) (
     input                                clk,
     input                                rst_n,
