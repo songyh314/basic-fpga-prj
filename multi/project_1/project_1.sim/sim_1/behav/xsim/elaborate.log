@@ -6,4 +6,12 @@ Starting static elaboration
 WARNING: [VRFC 10-3091] actual bit length 8 differs from formal bit length 16 for port 'mult_2_o' [F:/WORK/prj_fpga/multi/mult_line.v:30]
 WARNING: [VRFC 10-3091] actual bit length 8 differs from formal bit length 16 for port 'mult_2_o' [F:/WORK/prj_fpga/multi/mult_line.v:49]
 Completed static elaboration
-INFO: [XSIM 43-4323] No Change in HDL. Linking previously generated obj files to create kernel
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4100] "F:/WORK/prj_fpga/multi/project_1/project_1.sim/sim_1/behav/xsim/glbl.v" Line 6. Module glbl has a timescale but at least one module in design doesn't have timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.mult_cell(MULTLEN_1=8,MULTLEN_2=...
+Compiling module xil_defaultlib.mult_line(MULTLEN_1=8,MULTLEN_2=...
+Compiling module xil_defaultlib.mult_line_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot mult_line_tb_behav

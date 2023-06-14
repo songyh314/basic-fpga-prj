@@ -29,6 +29,12 @@ module mult_line_tb;
     .valid  ( valid)
   );
 
+
+  initial begin
+    $dumpfile("./build/wave.vcd");
+    $dumpvars(0,mult_line_tb);
+    #10000 $finish;
+  end
   initial begin
     reset_mod();
     @(negedge clk);
@@ -73,5 +79,9 @@ module mult_line_tb;
             #20;
         end
     endtask
-
+    /*
+md build
+iverilog -o ./build/test.out  tb_test.v test.v
+vvp -n ./build/test.out
+gtkwave ./build/wave.vcd*/
 endmodule

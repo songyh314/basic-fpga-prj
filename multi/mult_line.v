@@ -34,7 +34,7 @@ module mult_line #(
 
   genvar i;
   generate
-    for (i = 1; i < MULTLEN_2; i = i + 1) begin : MULT_STEP
+    for (i = 1 ; i < MULTLEN_2; i = i + 1) begin : MULT_STEP
       mult_cell #(
           .MULTLEN_1(MULTLEN_1),
           .MULTLEN_2(MULTLEN_2)

@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/WORK/prj_fpga/multi/mult_cell.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mult_cell
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/WORK/prj_fpga/multi/mult_line.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mult_line
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/WORK/prj_fpga/multi/tb_mult.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mult_line_tb
