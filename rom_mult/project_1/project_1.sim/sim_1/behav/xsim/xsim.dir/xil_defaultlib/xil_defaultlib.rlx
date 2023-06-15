@@ -1,0 +1,8 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+F:/WORK/prj_fpga/rom_mult/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+F:/WORK/prj_fpga/rom_mult/project_1/project_1.srcs/sources_1/ip/dist_mem_gen_0/sim/dist_mem_gen_0.v,1686753227,verilog,,F:/WORK/prj_fpga/rom_mult/rom_mult.v,,dist_mem_gen_0,,,,,,,,
+F:/WORK/prj_fpga/rom_mult/rom_mult.v,1686791329,verilog,,F:/WORK/prj_fpga/rom_mult/tb_mult.v,,rom_mult,,,,,,,,
+F:/WORK/prj_fpga/rom_mult/tb_mult.v,1686790923,verilog,,,,rom_mult_tb,,,,,,,,

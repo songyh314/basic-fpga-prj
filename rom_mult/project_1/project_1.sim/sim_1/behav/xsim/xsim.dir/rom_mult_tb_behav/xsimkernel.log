@@ -1,0 +1,4 @@
+Running: xsim.dir/rom_mult_tb_behav/xsimk.exe -simmode gui -wdb rom_mult_tb_behav.wdb -simrunnum 0 -socket 3055
+Design successfully loaded
+Design Loading Memory Usage: 6436 KB (Peak: 6436 KB)
+Design Loading CPU Usage: 15 ms
